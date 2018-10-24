@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Creador de Usuarios SIPE</string>
+    <string name="por_favor_acerque_una_nueva_tarjeta">Por favor acerque una nueva tarjeta</string>
+    <string name="crear_usuario">Crear Usuario</string>
+    <string name="nombre">Nombre</string>
+    <string name="c_dula">Cédula</string>
+    <string name="empresa">Empresa</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="regargar_pasajes">Regargar Pasajes</string>
+    <string name="pasajes_actuales">Pasajes Actuales</string>
+    <string name="pasajes_a_recargar">Pasajes</string>
+</resources>
